@@ -1,0 +1,28 @@
+name: valeriospinaci
+favicon: null
+layout_spectrum: 0.32098117657005787
+typography_spectrum: 0.30329784541390836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.99239805736579
+  lightness: 0.9514616385567933
+  saturation: 0.05919963726773858
+  rhythmicContrast: 0.8230203760322183
+purpose: []

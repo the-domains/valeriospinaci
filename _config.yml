@@ -1,19 +1,4 @@
-name: valeriospinaci
-favicon: null
-layout_spectrum: 0.32098117657005787
 typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9514616385567933
   saturation: 0.05919963726773858
   rhythmicContrast: 0.8230203760322183
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.32098117657005787
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: valeriospinaci
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Valerio Spinaci P.A.
 purpose: []
